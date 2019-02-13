@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">displayjoke</string>
+    <string name="jokes">Jokes Unavailable to Display</string>
+    <string name="jokes_unavailable">Jokes unavailable</string>
+</resources>
